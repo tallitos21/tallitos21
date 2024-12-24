@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Talles Rodrigues Durães!👋
 
 [![Meu Portifólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talles-rodrigues-9a091425b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talles-rodrigues-dur%C3%A3es-9a091425b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tallesrd45/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tallitos21&hide_progress=true)
